@@ -1,0 +1,7 @@
+web_app.log
+main
+*.exe
+/web_app.log
+/config.yaml
+.idea
+.idea/
